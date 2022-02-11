@@ -3,8 +3,8 @@
  <p align="center">Estudante de Analise e Desenvolvimento de Sistemas - UNIP/SJRP</p>
 <div align="center">
   <a href="https://github.com/LeentiDev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeentiDev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeentiDev&layout=compact&langs_count=7&theme=react"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LeentiDev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeentiDev&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div align=" center"><br>
   <img align="center" alt="Leenti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
